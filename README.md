@@ -2,7 +2,7 @@
 official repository for paper 《LEVERAGING SPATIAL TEMPORAL TRANSFORMER FOR ENHANCED PREDICTION OF TRUCK DEMANDS IN URBAN AREA》
 
 
- ** To be updated ** 
+ * To be updated * 
 
 ![Heatmap Animation](https://github.com/Perseus1993/STTT/blob/main/n.gif)
 
@@ -16,9 +16,8 @@ The model was trained using data from different time periods, and it has been de
 
 ## Dependencies
 
-- Python
 - PyTorch
-- TensorFlow
+- osmnx
 - moving pandas
 - Node2Vec
 - Word2Vec
