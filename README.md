@@ -2,7 +2,7 @@
 official repository for paper 《LEVERAGING SPATIAL TEMPORAL TRANSFORMER FOR ENHANCED PREDICTION OF TRUCK DEMANDS IN URBAN AREA》
 
 
- * To be updated * 
+__To be updated__
 
 ![Heatmap Animation](https://github.com/Perseus1993/STTT/blob/main/n.gif)
 
